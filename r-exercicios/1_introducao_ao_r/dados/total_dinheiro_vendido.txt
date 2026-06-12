@@ -1,0 +1,913 @@
+AnoQuarter|Linha_produto|Categoria_produto|Total_dinheiro_vendido
+1999Q1|Children|Children Sports|899090
+1999Q1|Children|Children Sports|256040
+1999Q1|Children|Children Sports|1876880
+1999Q1|Children|Children Sports|1433720
+1999Q1|Children|Children Sports|1299620
+1999Q1|Children|Children Sports|3425050
+1999Q1|Children|Children Sports|333930
+1999Q1|Children|Children Sports|58040
+1999Q1|Children|Children Sports|1321960
+1999Q1|Children|Children Sports|4004950
+1999Q1|Children|Children Sports|535470
+1999Q1|Clothes & Shoes|Clothes|17020610
+1999Q1|Clothes & Shoes|Clothes|784620
+1999Q1|Clothes & Shoes|Clothes|14007794
+1999Q1|Clothes & Shoes|Clothes|3253550
+1999Q1|Clothes & Shoes|Clothes|2604720
+1999Q1|Clothes & Shoes|Clothes|719210
+1999Q1|Clothes & Shoes|Clothes|7223650
+1999Q1|Clothes & Shoes|Clothes|2229430
+1999Q1|Clothes & Shoes|Clothes|1571280
+1999Q1|Clothes & Shoes|Clothes|406300
+1999Q1|Clothes & Shoes|Clothes|356490
+1999Q1|Clothes & Shoes|Clothes|2639180
+1999Q1|Clothes & Shoes|Clothes|1049710
+1999Q1|Clothes & Shoes|Clothes|12704680
+1999Q1|Clothes & Shoes|Clothes|1887833
+1999Q1|Clothes & Shoes|Shoes|41379640
+1999Q1|Clothes & Shoes|Shoes|18327920
+1999Q1|Clothes & Shoes|Shoes|17020040
+1999Q1|Outdoors|Outdoors|42062154
+1999Q1|Outdoors|Outdoors|8126850
+1999Q1|Outdoors|Outdoors|990080
+1999Q1|Outdoors|Outdoors|713558
+1999Q1|Outdoors|Outdoors|15049270
+1999Q1|Outdoors|Outdoors|14613280
+1999Q1|Outdoors|Outdoors|25116380
+1999Q1|Sports|Assorted Sports Articles|26602415
+1999Q1|Sports|Assorted Sports Articles|3445420
+1999Q1|Sports|Assorted Sports Articles|1622530
+1999Q1|Sports|Assorted Sports Articles|38496330
+1999Q1|Sports|Golf|15919070
+1999Q1|Sports|Golf|5705520
+1999Q1|Sports|Indoor Sports|12185700
+1999Q1|Sports|Indoor Sports|1702436
+1999Q1|Sports|Indoor Sports|7177326
+1999Q1|Sports|Racket Sports|1820380
+1999Q1|Sports|Racket Sports|7651040
+1999Q1|Sports|Racket Sports|2395030
+1999Q1|Sports|Running - Jogging|8165780
+1999Q1|Sports|Running - Jogging|9513980
+1999Q1|Sports|Swim Sports|4413080
+1999Q1|Sports|Team Sports|1060886
+1999Q1|Sports|Team Sports|644470
+1999Q1|Sports|Team Sports|461765
+1999Q1|Sports|Team Sports|3692700
+1999Q1|Sports|Winter Sports|37741135
+1999Q1|Sports|Winter Sports|24787279
+1999Q2|Children|Children Sports|1849910
+1999Q2|Children|Children Sports|555266
+1999Q2|Children|Children Sports|3468820
+1999Q2|Children|Children Sports|2805244
+1999Q2|Children|Children Sports|2387110
+1999Q2|Children|Children Sports|7370828
+1999Q2|Children|Children Sports|701830
+1999Q2|Children|Children Sports|69340
+1999Q2|Children|Children Sports|2860360
+1999Q2|Children|Children Sports|8246983
+1999Q2|Children|Children Sports|937860
+1999Q2|Clothes & Shoes|Clothes|31370198
+1999Q2|Clothes & Shoes|Clothes|1544380
+1999Q2|Clothes & Shoes|Clothes|7562030
+1999Q2|Clothes & Shoes|Clothes|5988350
+1999Q2|Clothes & Shoes|Clothes|4771580
+1999Q2|Clothes & Shoes|Clothes|2246800
+1999Q2|Clothes & Shoes|Clothes|12451329
+1999Q2|Clothes & Shoes|Clothes|4587511
+1999Q2|Clothes & Shoes|Clothes|2808180
+1999Q2|Clothes & Shoes|Clothes|689770
+1999Q2|Clothes & Shoes|Clothes|630690
+1999Q2|Clothes & Shoes|Clothes|5889730
+1999Q2|Clothes & Shoes|Clothes|1785243
+1999Q2|Clothes & Shoes|Clothes|23342442
+1999Q2|Clothes & Shoes|Clothes|2529235
+1999Q2|Clothes & Shoes|Shoes|68690659
+1999Q2|Clothes & Shoes|Shoes|29642649
+1999Q2|Clothes & Shoes|Shoes|29462170
+1999Q2|Outdoors|Outdoors|29196571
+1999Q2|Outdoors|Outdoors|19713425
+1999Q2|Outdoors|Outdoors|961700
+1999Q2|Outdoors|Outdoors|344180
+1999Q2|Outdoors|Outdoors|34241771
+1999Q2|Outdoors|Outdoors|35795370
+1999Q2|Outdoors|Outdoors|60629100
+1999Q2|Sports|Assorted Sports Articles|43024039
+1999Q2|Sports|Assorted Sports Articles|3492230
+1999Q2|Sports|Assorted Sports Articles|4556600
+1999Q2|Sports|Assorted Sports Articles|94007282
+1999Q2|Sports|Golf|37643736
+1999Q2|Sports|Golf|11636450
+1999Q2|Sports|Indoor Sports|4963170
+1999Q2|Sports|Indoor Sports|862340
+1999Q2|Sports|Indoor Sports|3320040
+1999Q2|Sports|Racket Sports|1236010
+1999Q2|Sports|Racket Sports|12225900
+1999Q2|Sports|Racket Sports|6375669
+1999Q2|Sports|Running - Jogging|13508627
+1999Q2|Sports|Running - Jogging|13947338
+1999Q2|Sports|Swim Sports|10404683
+1999Q2|Sports|Team Sports|2556566
+1999Q2|Sports|Team Sports|1655382
+1999Q2|Sports|Team Sports|224535
+1999Q2|Sports|Team Sports|9438351
+1999Q2|Sports|Winter Sports|13334060
+1999Q2|Sports|Winter Sports|9854087
+1999Q3|Children|Children Sports|1641053
+1999Q3|Children|Children Sports|512840
+1999Q3|Children|Children Sports|3387030
+1999Q3|Children|Children Sports|2736786
+1999Q3|Children|Children Sports|2213680
+1999Q3|Children|Children Sports|7345364
+1999Q3|Children|Children Sports|652110
+1999Q3|Children|Children Sports|99860
+1999Q3|Children|Children Sports|2250764
+1999Q3|Children|Children Sports|7877020
+1999Q3|Children|Children Sports|861790
+1999Q3|Clothes & Shoes|Clothes|33916556
+1999Q3|Clothes & Shoes|Clothes|1509323
+1999Q3|Clothes & Shoes|Clothes|5339300
+1999Q3|Clothes & Shoes|Clothes|6899160
+1999Q3|Clothes & Shoes|Clothes|4098181
+1999Q3|Clothes & Shoes|Clothes|1449900
+1999Q3|Clothes & Shoes|Clothes|12989656
+1999Q3|Clothes & Shoes|Clothes|4555890
+1999Q3|Clothes & Shoes|Clothes|3008050
+1999Q3|Clothes & Shoes|Clothes|771631
+1999Q3|Clothes & Shoes|Clothes|789510
+1999Q3|Clothes & Shoes|Clothes|6553075
+1999Q3|Clothes & Shoes|Clothes|1920640
+1999Q3|Clothes & Shoes|Clothes|23819355
+1999Q3|Clothes & Shoes|Clothes|3792583
+1999Q3|Clothes & Shoes|Shoes|65872722
+1999Q3|Clothes & Shoes|Shoes|29636535
+1999Q3|Clothes & Shoes|Shoes|26462776
+1999Q3|Outdoors|Outdoors|15459510
+1999Q3|Outdoors|Outdoors|15114078
+1999Q3|Outdoors|Outdoors|951970
+1999Q3|Outdoors|Outdoors|288830
+1999Q3|Outdoors|Outdoors|30247077
+1999Q3|Outdoors|Outdoors|30818270
+1999Q3|Outdoors|Outdoors|53059410
+1999Q3|Sports|Assorted Sports Articles|42005469
+1999Q3|Sports|Assorted Sports Articles|2854270
+1999Q3|Sports|Assorted Sports Articles|3993630
+1999Q3|Sports|Assorted Sports Articles|83438906
+1999Q3|Sports|Golf|33926982
+1999Q3|Sports|Golf|12447491
+1999Q3|Sports|Indoor Sports|7232400
+1999Q3|Sports|Indoor Sports|1313830
+1999Q3|Sports|Indoor Sports|3948670
+1999Q3|Sports|Racket Sports|1710250
+1999Q3|Sports|Racket Sports|15027070
+1999Q3|Sports|Racket Sports|4172942
+1999Q3|Sports|Running - Jogging|12215454
+1999Q3|Sports|Running - Jogging|14155277
+1999Q3|Sports|Swim Sports|8443189
+1999Q3|Sports|Team Sports|1853710
+1999Q3|Sports|Team Sports|1221582
+1999Q3|Sports|Team Sports|324006
+1999Q3|Sports|Team Sports|6686328
+1999Q3|Sports|Winter Sports|12349450
+1999Q3|Sports|Winter Sports|9976315
+1999Q4|Children|Children Sports|1355020
+1999Q4|Children|Children Sports|191850
+1999Q4|Children|Children Sports|2828372
+1999Q4|Children|Children Sports|2444406
+1999Q4|Children|Children Sports|2049100
+1999Q4|Children|Children Sports|5062724
+1999Q4|Children|Children Sports|528030
+1999Q4|Children|Children Sports|94100
+1999Q4|Children|Children Sports|2018750
+1999Q4|Children|Children Sports|6504644
+1999Q4|Children|Children Sports|955300
+1999Q4|Clothes & Shoes|Clothes|28264460
+1999Q4|Clothes & Shoes|Clothes|1237350
+1999Q4|Clothes & Shoes|Clothes|10678990
+1999Q4|Clothes & Shoes|Clothes|5875278
+1999Q4|Clothes & Shoes|Clothes|3729310
+1999Q4|Clothes & Shoes|Clothes|1992400
+1999Q4|Clothes & Shoes|Clothes|11414368
+1999Q4|Clothes & Shoes|Clothes|4039912
+1999Q4|Clothes & Shoes|Clothes|2664092
+1999Q4|Clothes & Shoes|Clothes|343300
+1999Q4|Clothes & Shoes|Clothes|671460
+1999Q4|Clothes & Shoes|Clothes|5091442
+1999Q4|Clothes & Shoes|Clothes|883670
+1999Q4|Clothes & Shoes|Clothes|22690952
+1999Q4|Clothes & Shoes|Clothes|2716385
+1999Q4|Clothes & Shoes|Shoes|44383736
+1999Q4|Clothes & Shoes|Shoes|19999274
+1999Q4|Clothes & Shoes|Shoes|19894424
+1999Q4|Outdoors|Outdoors|33385844
+1999Q4|Outdoors|Outdoors|14666310
+1999Q4|Outdoors|Outdoors|2183390
+1999Q4|Outdoors|Outdoors|743728
+1999Q4|Outdoors|Outdoors|15959150
+1999Q4|Outdoors|Outdoors|17571940
+1999Q4|Outdoors|Outdoors|29389260
+1999Q4|Sports|Assorted Sports Articles|37960086
+1999Q4|Sports|Assorted Sports Articles|6254690
+1999Q4|Sports|Assorted Sports Articles|1962920
+1999Q4|Sports|Assorted Sports Articles|45812210
+1999Q4|Sports|Golf|25890947
+1999Q4|Sports|Golf|8987221
+1999Q4|Sports|Indoor Sports|13497604
+1999Q4|Sports|Indoor Sports|1963786
+1999Q4|Sports|Indoor Sports|7310318
+1999Q4|Sports|Racket Sports|3023450
+1999Q4|Sports|Racket Sports|14901570
+1999Q4|Sports|Racket Sports|4118818
+1999Q4|Sports|Running - Jogging|9111777
+1999Q4|Sports|Running - Jogging|9440794
+1999Q4|Sports|Swim Sports|3920910
+1999Q4|Sports|Team Sports|1618890
+1999Q4|Sports|Team Sports|939406
+1999Q4|Sports|Team Sports|390585
+1999Q4|Sports|Team Sports|6923278
+1999Q4|Sports|Winter Sports|34626743
+1999Q4|Sports|Winter Sports|22281208
+2000Q1|Children|Children Sports|1016370
+2000Q1|Children|Children Sports|280010
+2000Q1|Children|Children Sports|1907910
+2000Q1|Children|Children Sports|1508250
+2000Q1|Children|Children Sports|1302000
+2000Q1|Children|Children Sports|3788970
+2000Q1|Children|Children Sports|398430
+2000Q1|Children|Children Sports|56020
+2000Q1|Children|Children Sports|1387850
+2000Q1|Children|Children Sports|4393620
+2000Q1|Children|Children Sports|611750
+2000Q1|Clothes & Shoes|Clothes|20749020
+2000Q1|Clothes & Shoes|Clothes|983550
+2000Q1|Clothes & Shoes|Clothes|15067380
+2000Q1|Clothes & Shoes|Clothes|3589730
+2000Q1|Clothes & Shoes|Clothes|2756250
+2000Q1|Clothes & Shoes|Clothes|1234100
+2000Q1|Clothes & Shoes|Clothes|7979410
+2000Q1|Clothes & Shoes|Clothes|2774560
+2000Q1|Clothes & Shoes|Clothes|1955470
+2000Q1|Clothes & Shoes|Clothes|449740
+2000Q1|Clothes & Shoes|Clothes|489410
+2000Q1|Clothes & Shoes|Clothes|3440060
+2000Q1|Clothes & Shoes|Clothes|1119120
+2000Q1|Clothes & Shoes|Clothes|14878270
+2000Q1|Clothes & Shoes|Clothes|2110975
+2000Q1|Clothes & Shoes|Shoes|48399620
+2000Q1|Clothes & Shoes|Shoes|20924170
+2000Q1|Clothes & Shoes|Shoes|19856170
+2000Q1|Outdoors|Outdoors|50998826
+2000Q1|Outdoors|Outdoors|9641000
+2000Q1|Outdoors|Outdoors|1372050
+2000Q1|Outdoors|Outdoors|851082
+2000Q1|Outdoors|Outdoors|17567330
+2000Q1|Outdoors|Outdoors|17587370
+2000Q1|Outdoors|Outdoors|32175280
+2000Q1|Sports|Assorted Sports Articles|30404040
+2000Q1|Sports|Assorted Sports Articles|4748100
+2000Q1|Sports|Assorted Sports Articles|1952680
+2000Q1|Sports|Assorted Sports Articles|46937450
+2000Q1|Sports|Golf|20436220
+2000Q1|Sports|Golf|7338240
+2000Q1|Sports|Indoor Sports|14316686
+2000Q1|Sports|Indoor Sports|1660706
+2000Q1|Sports|Indoor Sports|8349591
+2000Q1|Sports|Racket Sports|2538210
+2000Q1|Sports|Racket Sports|8422040
+2000Q1|Sports|Racket Sports|2894150
+2000Q1|Sports|Running - Jogging|9724060
+2000Q1|Sports|Running - Jogging|11037600
+2000Q1|Sports|Swim Sports|4252040
+2000Q1|Sports|Team Sports|1101150
+2000Q1|Sports|Team Sports|693430
+2000Q1|Sports|Team Sports|440866
+2000Q1|Sports|Team Sports|4460880
+2000Q1|Sports|Winter Sports|45305663
+2000Q1|Sports|Winter Sports|33249116
+2000Q2|Children|Children Sports|1635070
+2000Q2|Children|Children Sports|599820
+2000Q2|Children|Children Sports|3900403
+2000Q2|Children|Children Sports|3101499
+2000Q2|Children|Children Sports|2348510
+2000Q2|Children|Children Sports|8124287
+2000Q2|Children|Children Sports|771540
+2000Q2|Children|Children Sports|70600
+2000Q2|Children|Children Sports|2701008
+2000Q2|Children|Children Sports|8292435
+2000Q2|Children|Children Sports|1012580
+2000Q2|Clothes & Shoes|Clothes|38431835
+2000Q2|Clothes & Shoes|Clothes|2003700
+2000Q2|Clothes & Shoes|Clothes|9519930
+2000Q2|Clothes & Shoes|Clothes|7714900
+2000Q2|Clothes & Shoes|Clothes|5680170
+2000Q2|Clothes & Shoes|Clothes|2962200
+2000Q2|Clothes & Shoes|Clothes|16625265
+2000Q2|Clothes & Shoes|Clothes|5341263
+2000Q2|Clothes & Shoes|Clothes|3671110
+2000Q2|Clothes & Shoes|Clothes|774940
+2000Q2|Clothes & Shoes|Clothes|796590
+2000Q2|Clothes & Shoes|Clothes|6340910
+2000Q2|Clothes & Shoes|Clothes|2044087
+2000Q2|Clothes & Shoes|Clothes|30253772
+2000Q2|Clothes & Shoes|Clothes|3845215
+2000Q2|Clothes & Shoes|Shoes|76525346
+2000Q2|Clothes & Shoes|Shoes|33079239
+2000Q2|Clothes & Shoes|Shoes|32004627
+2000Q2|Outdoors|Outdoors|32961956
+2000Q2|Outdoors|Outdoors|23684837
+2000Q2|Outdoors|Outdoors|1153790
+2000Q2|Outdoors|Outdoors|393800
+2000Q2|Outdoors|Outdoors|42043513
+2000Q2|Outdoors|Outdoors|41451850
+2000Q2|Outdoors|Outdoors|72650660
+2000Q2|Sports|Assorted Sports Articles|50445969
+2000Q2|Sports|Assorted Sports Articles|4125430
+2000Q2|Sports|Assorted Sports Articles|5505740
+2000Q2|Sports|Assorted Sports Articles|115983726
+2000Q2|Sports|Golf|46336050
+2000Q2|Sports|Golf|15065696
+2000Q2|Sports|Indoor Sports|5808120
+2000Q2|Sports|Indoor Sports|929550
+2000Q2|Sports|Indoor Sports|3715510
+2000Q2|Sports|Racket Sports|1707650
+2000Q2|Sports|Racket Sports|15239650
+2000Q2|Sports|Racket Sports|7436730
+2000Q2|Sports|Running - Jogging|15729668
+2000Q2|Sports|Running - Jogging|16619289
+2000Q2|Sports|Swim Sports|12214656
+2000Q2|Sports|Team Sports|2862666
+2000Q2|Sports|Team Sports|1609597
+2000Q2|Sports|Team Sports|288712
+2000Q2|Sports|Team Sports|12755000
+2000Q2|Sports|Winter Sports|15041950
+2000Q2|Sports|Winter Sports|11849740
+2000Q3|Children|Children Sports|2015205
+2000Q3|Children|Children Sports|526990
+2000Q3|Children|Children Sports|4236331
+2000Q3|Children|Children Sports|3314282
+2000Q3|Children|Children Sports|2801750
+2000Q3|Children|Children Sports|8233989
+2000Q3|Children|Children Sports|828590
+2000Q3|Children|Children Sports|104530
+2000Q3|Children|Children Sports|3143183
+2000Q3|Children|Children Sports|9910321
+2000Q3|Children|Children Sports|1186250
+2000Q3|Clothes & Shoes|Clothes|42322337
+2000Q3|Clothes & Shoes|Clothes|1913950
+2000Q3|Clothes & Shoes|Clothes|7394740
+2000Q3|Clothes & Shoes|Clothes|8272430
+2000Q3|Clothes & Shoes|Clothes|6206140
+2000Q3|Clothes & Shoes|Clothes|2561420
+2000Q3|Clothes & Shoes|Clothes|15891297
+2000Q3|Clothes & Shoes|Clothes|5727909
+2000Q3|Clothes & Shoes|Clothes|4423350
+2000Q3|Clothes & Shoes|Clothes|979908
+2000Q3|Clothes & Shoes|Clothes|891769
+2000Q3|Clothes & Shoes|Clothes|7247166
+2000Q3|Clothes & Shoes|Clothes|2448230
+2000Q3|Clothes & Shoes|Clothes|31969743
+2000Q3|Clothes & Shoes|Clothes|4357775
+2000Q3|Clothes & Shoes|Shoes|77501601
+2000Q3|Clothes & Shoes|Shoes|33404706
+2000Q3|Clothes & Shoes|Shoes|32678551
+2000Q3|Outdoors|Outdoors|20446570
+2000Q3|Outdoors|Outdoors|20902272
+2000Q3|Outdoors|Outdoors|1312330
+2000Q3|Outdoors|Outdoors|422420
+2000Q3|Outdoors|Outdoors|39030668
+2000Q3|Outdoors|Outdoors|38467360
+2000Q3|Outdoors|Outdoors|66778150
+2000Q3|Sports|Assorted Sports Articles|55740252
+2000Q3|Sports|Assorted Sports Articles|3936570
+2000Q3|Sports|Assorted Sports Articles|4177240
+2000Q3|Sports|Assorted Sports Articles|107743500
+2000Q3|Sports|Golf|43621274
+2000Q3|Sports|Golf|15833083
+2000Q3|Sports|Indoor Sports|10537390
+2000Q3|Sports|Indoor Sports|1714620
+2000Q3|Sports|Indoor Sports|6093120
+2000Q3|Sports|Racket Sports|2536080
+2000Q3|Sports|Racket Sports|16503510
+2000Q3|Sports|Racket Sports|4709788
+2000Q3|Sports|Running - Jogging|17211387
+2000Q3|Sports|Running - Jogging|17189646
+2000Q3|Sports|Swim Sports|10353900
+2000Q3|Sports|Team Sports|2512294
+2000Q3|Sports|Team Sports|1557373
+2000Q3|Sports|Team Sports|439758
+2000Q3|Sports|Team Sports|9164540
+2000Q3|Sports|Winter Sports|16143420
+2000Q3|Sports|Winter Sports|11499255
+2000Q4|Children|Children Sports|1743574
+2000Q4|Children|Children Sports|272240
+2000Q4|Children|Children Sports|3452070
+2000Q4|Children|Children Sports|2578806
+2000Q4|Children|Children Sports|2447800
+2000Q4|Children|Children Sports|6876124
+2000Q4|Children|Children Sports|657540
+2000Q4|Children|Children Sports|88440
+2000Q4|Children|Children Sports|2354506
+2000Q4|Children|Children Sports|7664858
+2000Q4|Children|Children Sports|912710
+2000Q4|Clothes & Shoes|Clothes|35738380
+2000Q4|Clothes & Shoes|Clothes|1600946
+2000Q4|Clothes & Shoes|Clothes|13202280
+2000Q4|Clothes & Shoes|Clothes|6524138
+2000Q4|Clothes & Shoes|Clothes|5332814
+2000Q4|Clothes & Shoes|Clothes|2081380
+2000Q4|Clothes & Shoes|Clothes|14862778
+2000Q4|Clothes & Shoes|Clothes|5355550
+2000Q4|Clothes & Shoes|Clothes|3092724
+2000Q4|Clothes & Shoes|Clothes|447590
+2000Q4|Clothes & Shoes|Clothes|890300
+2000Q4|Clothes & Shoes|Clothes|6504894
+2000Q4|Clothes & Shoes|Clothes|1128430
+2000Q4|Clothes & Shoes|Clothes|28249262
+2000Q4|Clothes & Shoes|Clothes|3299020
+2000Q4|Clothes & Shoes|Shoes|51796442
+2000Q4|Clothes & Shoes|Shoes|22164856
+2000Q4|Clothes & Shoes|Shoes|22494412
+2000Q4|Outdoors|Outdoors|46047762
+2000Q4|Outdoors|Outdoors|17472500
+2000Q4|Outdoors|Outdoors|2864430
+2000Q4|Outdoors|Outdoors|1107068
+2000Q4|Outdoors|Outdoors|20126170
+2000Q4|Outdoors|Outdoors|22259200
+2000Q4|Outdoors|Outdoors|38648520
+2000Q4|Sports|Assorted Sports Articles|47990185
+2000Q4|Sports|Assorted Sports Articles|7796730
+2000Q4|Sports|Assorted Sports Articles|2212030
+2000Q4|Sports|Assorted Sports Articles|60029700
+2000Q4|Sports|Golf|29507562
+2000Q4|Sports|Golf|10368283
+2000Q4|Sports|Indoor Sports|14431092
+2000Q4|Sports|Indoor Sports|2294196
+2000Q4|Sports|Indoor Sports|9426682
+2000Q4|Sports|Racket Sports|3739020
+2000Q4|Sports|Racket Sports|19071710
+2000Q4|Sports|Racket Sports|4837744
+2000Q4|Sports|Running - Jogging|11847443
+2000Q4|Sports|Running - Jogging|12636933
+2000Q4|Sports|Swim Sports|5079320
+2000Q4|Sports|Team Sports|1735120
+2000Q4|Sports|Team Sports|1321870
+2000Q4|Sports|Team Sports|537622
+2000Q4|Sports|Team Sports|8301706
+2000Q4|Sports|Winter Sports|35391525
+2000Q4|Sports|Winter Sports|25800048
+2001Q1|Children|Children Sports|795720
+2001Q1|Children|Children Sports|239430
+2001Q1|Children|Children Sports|1513500
+2001Q1|Children|Children Sports|1300730
+2001Q1|Children|Children Sports|993590
+2001Q1|Children|Children Sports|3218990
+2001Q1|Children|Children Sports|321180
+2001Q1|Children|Children Sports|42230
+2001Q1|Children|Children Sports|1192640
+2001Q1|Children|Children Sports|3447810
+2001Q1|Children|Children Sports|411110
+2001Q1|Clothes & Shoes|Clothes|16461740
+2001Q1|Clothes & Shoes|Clothes|728400
+2001Q1|Clothes & Shoes|Clothes|13309148
+2001Q1|Clothes & Shoes|Clothes|2871050
+2001Q1|Clothes & Shoes|Clothes|2869390
+2001Q1|Clothes & Shoes|Clothes|1224960
+2001Q1|Clothes & Shoes|Clothes|7282110
+2001Q1|Clothes & Shoes|Clothes|2513010
+2001Q1|Clothes & Shoes|Clothes|1538790
+2001Q1|Clothes & Shoes|Clothes|390710
+2001Q1|Clothes & Shoes|Clothes|416730
+2001Q1|Clothes & Shoes|Clothes|3180650
+2001Q1|Clothes & Shoes|Clothes|1000380
+2001Q1|Clothes & Shoes|Clothes|12596770
+2001Q1|Clothes & Shoes|Clothes|2078948
+2001Q1|Clothes & Shoes|Shoes|39170610
+2001Q1|Clothes & Shoes|Shoes|17435310
+2001Q1|Clothes & Shoes|Shoes|16603370
+2001Q1|Outdoors|Outdoors|49123416
+2001Q1|Outdoors|Outdoors|8631490
+2001Q1|Outdoors|Outdoors|1399710
+2001Q1|Outdoors|Outdoors|1081274
+2001Q1|Outdoors|Outdoors|15519780
+2001Q1|Outdoors|Outdoors|15051190
+2001Q1|Outdoors|Outdoors|26178450
+2001Q1|Sports|Assorted Sports Articles|26464560
+2001Q1|Sports|Assorted Sports Articles|3983890
+2001Q1|Sports|Assorted Sports Articles|1783160
+2001Q1|Sports|Assorted Sports Articles|39019260
+2001Q1|Sports|Golf|16018100
+2001Q1|Sports|Golf|5872670
+2001Q1|Sports|Indoor Sports|8502504
+2001Q1|Sports|Indoor Sports|1369516
+2001Q1|Sports|Indoor Sports|4882720
+2001Q1|Sports|Racket Sports|1744790
+2001Q1|Sports|Racket Sports|8046990
+2001Q1|Sports|Racket Sports|2424290
+2001Q1|Sports|Running - Jogging|9024040
+2001Q1|Sports|Running - Jogging|9534990
+2001Q1|Sports|Swim Sports|3973770
+2001Q1|Sports|Team Sports|880383
+2001Q1|Sports|Team Sports|570370
+2001Q1|Sports|Team Sports|343983
+2001Q1|Sports|Team Sports|4312510
+2001Q1|Sports|Winter Sports|37327923
+2001Q1|Sports|Winter Sports|26656247
+2001Q2|Children|Children Sports|1435470
+2001Q2|Children|Children Sports|505248
+2001Q2|Children|Children Sports|3425779
+2001Q2|Children|Children Sports|2746634
+2001Q2|Children|Children Sports|2329440
+2001Q2|Children|Children Sports|7004550
+2001Q2|Children|Children Sports|805920
+2001Q2|Children|Children Sports|93470
+2001Q2|Children|Children Sports|2342307
+2001Q2|Children|Children Sports|7929879
+2001Q2|Children|Children Sports|999970
+2001Q2|Clothes & Shoes|Clothes|32064167
+2001Q2|Clothes & Shoes|Clothes|1626320
+2001Q2|Clothes & Shoes|Clothes|8213120
+2001Q2|Clothes & Shoes|Clothes|6365960
+2001Q2|Clothes & Shoes|Clothes|5681560
+2001Q2|Clothes & Shoes|Clothes|1842270
+2001Q2|Clothes & Shoes|Clothes|13530468
+2001Q2|Clothes & Shoes|Clothes|4883434
+2001Q2|Clothes & Shoes|Clothes|3100550
+2001Q2|Clothes & Shoes|Clothes|676110
+2001Q2|Clothes & Shoes|Clothes|650120
+2001Q2|Clothes & Shoes|Clothes|7021537
+2001Q2|Clothes & Shoes|Clothes|1803340
+2001Q2|Clothes & Shoes|Clothes|25354029
+2001Q2|Clothes & Shoes|Clothes|4087608
+2001Q2|Clothes & Shoes|Shoes|60467156
+2001Q2|Clothes & Shoes|Shoes|27408355
+2001Q2|Clothes & Shoes|Shoes|25027751
+2001Q2|Outdoors|Outdoors|32699816
+2001Q2|Outdoors|Outdoors|21938878
+2001Q2|Outdoors|Outdoors|1210000
+2001Q2|Outdoors|Outdoors|368880
+2001Q2|Outdoors|Outdoors|38866134
+2001Q2|Outdoors|Outdoors|37411520
+2001Q2|Outdoors|Outdoors|66666940
+2001Q2|Sports|Assorted Sports Articles|44433069
+2001Q2|Sports|Assorted Sports Articles|3719150
+2001Q2|Sports|Assorted Sports Articles|5044680
+2001Q2|Sports|Assorted Sports Articles|96248550
+2001Q2|Sports|Golf|37194148
+2001Q2|Sports|Golf|13237064
+2001Q2|Sports|Indoor Sports|4120870
+2001Q2|Sports|Indoor Sports|808750
+2001Q2|Sports|Indoor Sports|3061320
+2001Q2|Sports|Racket Sports|1503750
+2001Q2|Sports|Racket Sports|14245410
+2001Q2|Sports|Racket Sports|6620678
+2001Q2|Sports|Running - Jogging|14468378
+2001Q2|Sports|Running - Jogging|14505796
+2001Q2|Sports|Swim Sports|11368873
+2001Q2|Sports|Team Sports|2212854
+2001Q2|Sports|Team Sports|1441329
+2001Q2|Sports|Team Sports|217735
+2001Q2|Sports|Team Sports|12704675
+2001Q2|Sports|Winter Sports|12697900
+2001Q2|Sports|Winter Sports|9751410
+2001Q3|Children|Children Sports|1639959
+2001Q3|Children|Children Sports|616240
+2001Q3|Children|Children Sports|3921786
+2001Q3|Children|Children Sports|3149911
+2001Q3|Children|Children Sports|2316590
+2001Q3|Children|Children Sports|7202348
+2001Q3|Children|Children Sports|739230
+2001Q3|Children|Children Sports|56620
+2001Q3|Children|Children Sports|2567689
+2001Q3|Children|Children Sports|7670570
+2001Q3|Children|Children Sports|943080
+2001Q3|Clothes & Shoes|Clothes|34463915
+2001Q3|Clothes & Shoes|Clothes|1703878
+2001Q3|Clothes & Shoes|Clothes|5505860
+2001Q3|Clothes & Shoes|Clothes|7026620
+2001Q3|Clothes & Shoes|Clothes|5497432
+2001Q3|Clothes & Shoes|Clothes|1896880
+2001Q3|Clothes & Shoes|Clothes|15184624
+2001Q3|Clothes & Shoes|Clothes|4872224
+2001Q3|Clothes & Shoes|Clothes|3301400
+2001Q3|Clothes & Shoes|Clothes|666566
+2001Q3|Clothes & Shoes|Clothes|752211
+2001Q3|Clothes & Shoes|Clothes|5954019
+2001Q3|Clothes & Shoes|Clothes|2255950
+2001Q3|Clothes & Shoes|Clothes|26221432
+2001Q3|Clothes & Shoes|Clothes|3722540
+2001Q3|Clothes & Shoes|Shoes|64207132
+2001Q3|Clothes & Shoes|Shoes|27740495
+2001Q3|Clothes & Shoes|Shoes|25490861
+2001Q3|Outdoors|Outdoors|18394010
+2001Q3|Outdoors|Outdoors|18996718
+2001Q3|Outdoors|Outdoors|1212400
+2001Q3|Outdoors|Outdoors|385680
+2001Q3|Outdoors|Outdoors|33599339
+2001Q3|Outdoors|Outdoors|33128020
+2001Q3|Outdoors|Outdoors|61069900
+2001Q3|Sports|Assorted Sports Articles|45785124
+2001Q3|Sports|Assorted Sports Articles|3207530
+2001Q3|Sports|Assorted Sports Articles|3834210
+2001Q3|Sports|Assorted Sports Articles|87308938
+2001Q3|Sports|Golf|33719451
+2001Q3|Sports|Golf|11778131
+2001Q3|Sports|Indoor Sports|6414480
+2001Q3|Sports|Indoor Sports|1242310
+2001Q3|Sports|Indoor Sports|5224520
+2001Q3|Sports|Racket Sports|1668830
+2001Q3|Sports|Racket Sports|15736710
+2001Q3|Sports|Racket Sports|4126902
+2001Q3|Sports|Running - Jogging|13924720
+2001Q3|Sports|Running - Jogging|15816763
+2001Q3|Sports|Swim Sports|9472170
+2001Q3|Sports|Team Sports|1947741
+2001Q3|Sports|Team Sports|1282931
+2001Q3|Sports|Team Sports|384487
+2001Q3|Sports|Team Sports|8089077
+2001Q3|Sports|Winter Sports|13157370
+2001Q3|Sports|Winter Sports|9469170
+2001Q4|Children|Children Sports|1366484
+2001Q4|Children|Children Sports|279500
+2001Q4|Children|Children Sports|2784564
+2001Q4|Children|Children Sports|2482620
+2001Q4|Children|Children Sports|2155680
+2001Q4|Children|Children Sports|6328532
+2001Q4|Children|Children Sports|573790
+2001Q4|Children|Children Sports|173010
+2001Q4|Children|Children Sports|2128798
+2001Q4|Children|Children Sports|6529458
+2001Q4|Children|Children Sports|962760
+2001Q4|Clothes & Shoes|Clothes|28890620
+2001Q4|Clothes & Shoes|Clothes|1444700
+2001Q4|Clothes & Shoes|Clothes|10012690
+2001Q4|Clothes & Shoes|Clothes|5777628
+2001Q4|Clothes & Shoes|Clothes|4675780
+2001Q4|Clothes & Shoes|Clothes|1986420
+2001Q4|Clothes & Shoes|Clothes|11914944
+2001Q4|Clothes & Shoes|Clothes|4003846
+2001Q4|Clothes & Shoes|Clothes|2753024
+2001Q4|Clothes & Shoes|Clothes|377340
+2001Q4|Clothes & Shoes|Clothes|822050
+2001Q4|Clothes & Shoes|Clothes|4747840
+2001Q4|Clothes & Shoes|Clothes|950120
+2001Q4|Clothes & Shoes|Clothes|22060316
+2001Q4|Clothes & Shoes|Clothes|2805908
+2001Q4|Clothes & Shoes|Shoes|43036552
+2001Q4|Clothes & Shoes|Shoes|20498202
+2001Q4|Clothes & Shoes|Shoes|19781582
+2001Q4|Outdoors|Outdoors|38441226
+2001Q4|Outdoors|Outdoors|15717590
+2001Q4|Outdoors|Outdoors|2682510
+2001Q4|Outdoors|Outdoors|883980
+2001Q4|Outdoors|Outdoors|17027030
+2001Q4|Outdoors|Outdoors|19271590
+2001Q4|Outdoors|Outdoors|33458250
+2001Q4|Sports|Assorted Sports Articles|40581476
+2001Q4|Sports|Assorted Sports Articles|7421390
+2001Q4|Sports|Assorted Sports Articles|2090970
+2001Q4|Sports|Assorted Sports Articles|45062360
+2001Q4|Sports|Golf|27034117
+2001Q4|Sports|Golf|8863869
+2001Q4|Sports|Indoor Sports|12016218
+2001Q4|Sports|Indoor Sports|1662258
+2001Q4|Sports|Indoor Sports|5634064
+2001Q4|Sports|Racket Sports|3613060
+2001Q4|Sports|Racket Sports|17424580
+2001Q4|Sports|Racket Sports|4182923
+2001Q4|Sports|Running - Jogging|9642099
+2001Q4|Sports|Running - Jogging|10470479
+2001Q4|Sports|Swim Sports|4854200
+2001Q4|Sports|Team Sports|1682857
+2001Q4|Sports|Team Sports|1062094
+2001Q4|Sports|Team Sports|453248
+2001Q4|Sports|Team Sports|7892005
+2001Q4|Sports|Winter Sports|32955084
+2001Q4|Sports|Winter Sports|26105245
+2002Q1|Children|Children Sports|686670
+2002Q1|Children|Children Sports|280160
+2002Q1|Children|Children Sports|1811890
+2002Q1|Children|Children Sports|1466150
+2002Q1|Children|Children Sports|1141620
+2002Q1|Children|Children Sports|3489750
+2002Q1|Children|Children Sports|326970
+2002Q1|Children|Children Sports|51590
+2002Q1|Children|Children Sports|1334070
+2002Q1|Children|Children Sports|3951750
+2002Q1|Children|Children Sports|438660
+2002Q1|Clothes & Shoes|Clothes|15570020
+2002Q1|Clothes & Shoes|Clothes|804550
+2002Q1|Clothes & Shoes|Clothes|12982298
+2002Q1|Clothes & Shoes|Clothes|3279160
+2002Q1|Clothes & Shoes|Clothes|2562630
+2002Q1|Clothes & Shoes|Clothes|973390
+2002Q1|Clothes & Shoes|Clothes|6340340
+2002Q1|Clothes & Shoes|Clothes|2500950
+2002Q1|Clothes & Shoes|Clothes|1314090
+2002Q1|Clothes & Shoes|Clothes|298610
+2002Q1|Clothes & Shoes|Clothes|369240
+2002Q1|Clothes & Shoes|Clothes|3040140
+2002Q1|Clothes & Shoes|Clothes|1167690
+2002Q1|Clothes & Shoes|Clothes|12609650
+2002Q1|Clothes & Shoes|Clothes|1828473
+2002Q1|Clothes & Shoes|Shoes|41539790
+2002Q1|Clothes & Shoes|Shoes|19648580
+2002Q1|Clothes & Shoes|Shoes|18253690
+2002Q1|Outdoors|Outdoors|50377644
+2002Q1|Outdoors|Outdoors|8247240
+2002Q1|Outdoors|Outdoors|1305750
+2002Q1|Outdoors|Outdoors|867256
+2002Q1|Outdoors|Outdoors|16323290
+2002Q1|Outdoors|Outdoors|15995110
+2002Q1|Outdoors|Outdoors|30581390
+2002Q1|Sports|Assorted Sports Articles|25044935
+2002Q1|Sports|Assorted Sports Articles|3943340
+2002Q1|Sports|Assorted Sports Articles|1809040
+2002Q1|Sports|Assorted Sports Articles|38470370
+2002Q1|Sports|Golf|18660640
+2002Q1|Sports|Golf|5874120
+2002Q1|Sports|Indoor Sports|10288970
+2002Q1|Sports|Indoor Sports|1643118
+2002Q1|Sports|Indoor Sports|6620930
+2002Q1|Sports|Racket Sports|1849330
+2002Q1|Sports|Racket Sports|7418950
+2002Q1|Sports|Racket Sports|2273750
+2002Q1|Sports|Running - Jogging|9503950
+2002Q1|Sports|Running - Jogging|10878630
+2002Q1|Sports|Swim Sports|4316380
+2002Q1|Sports|Team Sports|895828
+2002Q1|Sports|Team Sports|553400
+2002Q1|Sports|Team Sports|341505
+2002Q1|Sports|Team Sports|4604020
+2002Q1|Sports|Winter Sports|37296906
+2002Q1|Sports|Winter Sports|26586944
+2002Q2|Children|Children Sports|1901610
+2002Q2|Children|Children Sports|793261
+2002Q2|Children|Children Sports|4160116
+2002Q2|Children|Children Sports|3412116
+2002Q2|Children|Children Sports|2699720
+2002Q2|Children|Children Sports|8575343
+2002Q2|Children|Children Sports|813670
+2002Q2|Children|Children Sports|155820
+2002Q2|Children|Children Sports|2953406
+2002Q2|Children|Children Sports|9624001
+2002Q2|Children|Children Sports|1146390
+2002Q2|Clothes & Shoes|Clothes|33755892
+2002Q2|Clothes & Shoes|Clothes|1672180
+2002Q2|Clothes & Shoes|Clothes|8447580
+2002Q2|Clothes & Shoes|Clothes|6161750
+2002Q2|Clothes & Shoes|Clothes|4462650
+2002Q2|Clothes & Shoes|Clothes|2442530
+2002Q2|Clothes & Shoes|Clothes|14467944
+2002Q2|Clothes & Shoes|Clothes|4919300
+2002Q2|Clothes & Shoes|Clothes|3016810
+2002Q2|Clothes & Shoes|Clothes|612390
+2002Q2|Clothes & Shoes|Clothes|716660
+2002Q2|Clothes & Shoes|Clothes|5884186
+2002Q2|Clothes & Shoes|Clothes|1814009
+2002Q2|Clothes & Shoes|Clothes|26171782
+2002Q2|Clothes & Shoes|Clothes|3187960
+2002Q2|Clothes & Shoes|Shoes|70280459
+2002Q2|Clothes & Shoes|Shoes|32135426
+2002Q2|Clothes & Shoes|Shoes|29989721
+2002Q2|Outdoors|Outdoors|35544897
+2002Q2|Outdoors|Outdoors|22614742
+2002Q2|Outdoors|Outdoors|1303240
+2002Q2|Outdoors|Outdoors|416920
+2002Q2|Outdoors|Outdoors|40602488
+2002Q2|Outdoors|Outdoors|40838220
+2002Q2|Outdoors|Outdoors|73728750
+2002Q2|Sports|Assorted Sports Articles|49968368
+2002Q2|Sports|Assorted Sports Articles|3700330
+2002Q2|Sports|Assorted Sports Articles|5707500
+2002Q2|Sports|Assorted Sports Articles|99688302
+2002Q2|Sports|Golf|43149272
+2002Q2|Sports|Golf|14436386
+2002Q2|Sports|Indoor Sports|6760870
+2002Q2|Sports|Indoor Sports|1026270
+2002Q2|Sports|Indoor Sports|3688170
+2002Q2|Sports|Racket Sports|1694740
+2002Q2|Sports|Racket Sports|13498110
+2002Q2|Sports|Racket Sports|7124111
+2002Q2|Sports|Running - Jogging|15289788
+2002Q2|Sports|Running - Jogging|16711865
+2002Q2|Sports|Swim Sports|12785359
+2002Q2|Sports|Team Sports|2714926
+2002Q2|Sports|Team Sports|1774661
+2002Q2|Sports|Team Sports|271619
+2002Q2|Sports|Team Sports|11250911
+2002Q2|Sports|Winter Sports|13047090
+2002Q2|Sports|Winter Sports|10245940
+2002Q3|Children|Children Sports|1920117
+2002Q3|Children|Children Sports|720360
+2002Q3|Children|Children Sports|4654032
+2002Q3|Children|Children Sports|3896842
+2002Q3|Children|Children Sports|3189780
+2002Q3|Children|Children Sports|10492001
+2002Q3|Children|Children Sports|865280
+2002Q3|Children|Children Sports|143770
+2002Q3|Children|Children Sports|3449432
+2002Q3|Children|Children Sports|10378888
+2002Q3|Children|Children Sports|1358220
+2002Q3|Clothes & Shoes|Clothes|39645386
+2002Q3|Clothes & Shoes|Clothes|2190671
+2002Q3|Clothes & Shoes|Clothes|6642940
+2002Q3|Clothes & Shoes|Clothes|7730260
+2002Q3|Clothes & Shoes|Clothes|6289522
+2002Q3|Clothes & Shoes|Clothes|1759290
+2002Q3|Clothes & Shoes|Clothes|16037019
+2002Q3|Clothes & Shoes|Clothes|5924223
+2002Q3|Clothes & Shoes|Clothes|3388910
+2002Q3|Clothes & Shoes|Clothes|811203
+2002Q3|Clothes & Shoes|Clothes|990128
+2002Q3|Clothes & Shoes|Clothes|7387659
+2002Q3|Clothes & Shoes|Clothes|2660790
+2002Q3|Clothes & Shoes|Clothes|30468767
+2002Q3|Clothes & Shoes|Clothes|4023728
+2002Q3|Clothes & Shoes|Shoes|73089625
+2002Q3|Clothes & Shoes|Shoes|34042796
+2002Q3|Clothes & Shoes|Shoes|31010161
+2002Q3|Outdoors|Outdoors|21190490
+2002Q3|Outdoors|Outdoors|20089716
+2002Q3|Outdoors|Outdoors|1494680
+2002Q3|Outdoors|Outdoors|419180
+2002Q3|Outdoors|Outdoors|38814851
+2002Q3|Outdoors|Outdoors|38372080
+2002Q3|Outdoors|Outdoors|66307110
+2002Q3|Sports|Assorted Sports Articles|56319795
+2002Q3|Sports|Assorted Sports Articles|3924290
+2002Q3|Sports|Assorted Sports Articles|5122660
+2002Q3|Sports|Assorted Sports Articles|98716794
+2002Q3|Sports|Golf|42694532
+2002Q3|Sports|Golf|14449753
+2002Q3|Sports|Indoor Sports|11468900
+2002Q3|Sports|Indoor Sports|1871470
+2002Q3|Sports|Indoor Sports|7521530
+2002Q3|Sports|Racket Sports|2290930
+2002Q3|Sports|Racket Sports|17812310
+2002Q3|Sports|Racket Sports|5119023
+2002Q3|Sports|Running - Jogging|15252590
+2002Q3|Sports|Running - Jogging|17471329
+2002Q3|Sports|Swim Sports|12681795
+2002Q3|Sports|Team Sports|3282409
+2002Q3|Sports|Team Sports|2095859
+2002Q3|Sports|Team Sports|702192
+2002Q3|Sports|Team Sports|9428692
+2002Q3|Sports|Winter Sports|13188480
+2002Q3|Sports|Winter Sports|9387375
+2002Q4|Children|Children Sports|2410972
+2002Q4|Children|Children Sports|384510
+2002Q4|Children|Children Sports|4503284
+2002Q4|Children|Children Sports|3532994
+2002Q4|Children|Children Sports|3231680
+2002Q4|Children|Children Sports|10175228
+2002Q4|Children|Children Sports|945890
+2002Q4|Children|Children Sports|130320
+2002Q4|Children|Children Sports|3356236
+2002Q4|Children|Children Sports|10416778
+2002Q4|Children|Children Sports|1445210
+2002Q4|Clothes & Shoes|Clothes|36369556
+2002Q4|Clothes & Shoes|Clothes|1926618
+2002Q4|Clothes & Shoes|Clothes|13048650
+2002Q4|Clothes & Shoes|Clothes|6687940
+2002Q4|Clothes & Shoes|Clothes|5862078
+2002Q4|Clothes & Shoes|Clothes|3201910
+2002Q4|Clothes & Shoes|Clothes|14963692
+2002Q4|Clothes & Shoes|Clothes|5055628
+2002Q4|Clothes & Shoes|Clothes|3393788
+2002Q4|Clothes & Shoes|Clothes|466370
+2002Q4|Clothes & Shoes|Clothes|969230
+2002Q4|Clothes & Shoes|Clothes|7100448
+2002Q4|Clothes & Shoes|Clothes|1171600
+2002Q4|Clothes & Shoes|Clothes|26855044
+2002Q4|Clothes & Shoes|Clothes|3859615
+2002Q4|Clothes & Shoes|Shoes|54676275
+2002Q4|Clothes & Shoes|Shoes|27178030
+2002Q4|Clothes & Shoes|Shoes|23371404
+2002Q4|Outdoors|Outdoors|52604394
+2002Q4|Outdoors|Outdoors|22907950
+2002Q4|Outdoors|Outdoors|3507710
+2002Q4|Outdoors|Outdoors|1052086
+2002Q4|Outdoors|Outdoors|24080120
+2002Q4|Outdoors|Outdoors|25854330
+2002Q4|Outdoors|Outdoors|45438970
+2002Q4|Sports|Assorted Sports Articles|53633662
+2002Q4|Sports|Assorted Sports Articles|9056810
+2002Q4|Sports|Assorted Sports Articles|3221780
+2002Q4|Sports|Assorted Sports Articles|58373770
+2002Q4|Sports|Golf|38825431
+2002Q4|Sports|Golf|12303537
+2002Q4|Sports|Indoor Sports|18476270
+2002Q4|Sports|Indoor Sports|3088254
+2002Q4|Sports|Indoor Sports|11150846
+2002Q4|Sports|Racket Sports|3977890
+2002Q4|Sports|Racket Sports|21675720
+2002Q4|Sports|Racket Sports|5370879
+2002Q4|Sports|Running - Jogging|12525237
+2002Q4|Sports|Running - Jogging|13956017
+2002Q4|Sports|Swim Sports|6843290
+2002Q4|Sports|Team Sports|3471106
+2002Q4|Sports|Team Sports|2557927
+2002Q4|Sports|Team Sports|952692
+2002Q4|Sports|Team Sports|10400227
+2002Q4|Sports|Winter Sports|35349845
+2002Q4|Sports|Winter Sports|24896886

@@ -1,0 +1,913 @@
+AnoQuarter Linha_produto Categoria_produto Custo_dinheiro
+1999Q1 Children "Children Sports" 4980
+1999Q1 Children "Children Sports" 1479
+1999Q1 Children "Children Sports" 9348
+1999Q1 Children "Children Sports" 7136
+1999Q1 Children "Children Sports" 7163
+1999Q1 Children "Children Sports" 19153
+1999Q1 Children "Children Sports" 1975
+1999Q1 Children "Children Sports" 288
+1999Q1 Children "Children Sports" 7334
+1999Q1 Children "Children Sports" 21847
+1999Q1 Children "Children Sports" 3020
+1999Q1 "Clothes & Shoes" Clothes 84982
+1999Q1 "Clothes & Shoes" Clothes 4706
+1999Q1 "Clothes & Shoes" Clothes 79951
+1999Q1 "Clothes & Shoes" Clothes 16878
+1999Q1 "Clothes & Shoes" Clothes 14394
+1999Q1 "Clothes & Shoes" Clothes 3767
+1999Q1 "Clothes & Shoes" Clothes 38066
+1999Q1 "Clothes & Shoes" Clothes 11650
+1999Q1 "Clothes & Shoes" Clothes 9218
+1999Q1 "Clothes & Shoes" Clothes 2278
+1999Q1 "Clothes & Shoes" Clothes 2099
+1999Q1 "Clothes & Shoes" Clothes 15325
+1999Q1 "Clothes & Shoes" Clothes 5829
+1999Q1 "Clothes & Shoes" Clothes 69039
+1999Q1 "Clothes & Shoes" Clothes 9522
+1999Q1 "Clothes & Shoes" Shoes 205449
+1999Q1 "Clothes & Shoes" Shoes 98815
+1999Q1 "Clothes & Shoes" Shoes 92492
+1999Q1 Outdoors Outdoors 236288
+1999Q1 Outdoors Outdoors 43060
+1999Q1 Outdoors Outdoors 5756
+1999Q1 Outdoors Outdoors 4104
+1999Q1 Outdoors Outdoors 85201
+1999Q1 Outdoors Outdoors 74168
+1999Q1 Outdoors Outdoors 123547
+1999Q1 Sports "Assorted Sports Articles" 146611
+1999Q1 Sports "Assorted Sports Articles" 20224
+1999Q1 Sports "Assorted Sports Articles" 8991
+1999Q1 Sports "Assorted Sports Articles" 187259
+1999Q1 Sports Golf 76791
+1999Q1 Sports Golf 41045
+1999Q1 Sports "Indoor Sports" 60817
+1999Q1 Sports "Indoor Sports" 9569
+1999Q1 Sports "Indoor Sports" 39674
+1999Q1 Sports "Racket Sports" 13498
+1999Q1 Sports "Racket Sports" 44820
+1999Q1 Sports "Racket Sports" 13944
+1999Q1 Sports "Running - Jogging" 46763
+1999Q1 Sports "Running - Jogging" 52840
+1999Q1 Sports "Swim Sports" 25863
+1999Q1 Sports "Team Sports" 5990
+1999Q1 Sports "Team Sports" 3604
+1999Q1 Sports "Team Sports" 2853
+1999Q1 Sports "Team Sports" 19317
+1999Q1 Sports "Winter Sports" 213396
+1999Q1 Sports "Winter Sports" 138916
+1999Q2 Children "Children Sports" 10243
+1999Q2 Children "Children Sports" 3217
+1999Q2 Children "Children Sports" 17268
+1999Q2 Children "Children Sports" 13860
+1999Q2 Children "Children Sports" 13148
+1999Q2 Children "Children Sports" 41117
+1999Q2 Children "Children Sports" 4180
+1999Q2 Children "Children Sports" 344
+1999Q2 Children "Children Sports" 15763
+1999Q2 Children "Children Sports" 44840
+1999Q2 Children "Children Sports" 5289
+1999Q2 "Clothes & Shoes" Clothes 156126
+1999Q2 "Clothes & Shoes" Clothes 9264
+1999Q2 "Clothes & Shoes" Clothes 43345
+1999Q2 "Clothes & Shoes" Clothes 31183
+1999Q2 "Clothes & Shoes" Clothes 26349
+1999Q2 "Clothes & Shoes" Clothes 11770
+1999Q2 "Clothes & Shoes" Clothes 65043
+1999Q2 "Clothes & Shoes" Clothes 23831
+1999Q2 "Clothes & Shoes" Clothes 16426
+1999Q2 "Clothes & Shoes" Clothes 3866
+1999Q2 "Clothes & Shoes" Clothes 3703
+1999Q2 "Clothes & Shoes" Clothes 33972
+1999Q2 "Clothes & Shoes" Clothes 9721
+1999Q2 "Clothes & Shoes" Clothes 126424
+1999Q2 "Clothes & Shoes" Clothes 12789
+1999Q2 "Clothes & Shoes" Shoes 340341
+1999Q2 "Clothes & Shoes" Shoes 159684
+1999Q2 "Clothes & Shoes" Shoes 160034
+1999Q2 Outdoors Outdoors 162450
+1999Q2 Outdoors Outdoors 102754
+1999Q2 Outdoors Outdoors 5557
+1999Q2 Outdoors Outdoors 2012
+1999Q2 Outdoors Outdoors 192599
+1999Q2 Outdoors Outdoors 181599
+1999Q2 Outdoors Outdoors 300826
+1999Q2 Sports "Assorted Sports Articles" 237328
+1999Q2 Sports "Assorted Sports Articles" 20502
+1999Q2 Sports "Assorted Sports Articles" 25301
+1999Q2 Sports "Assorted Sports Articles" 444409
+1999Q2 Sports Golf 180709
+1999Q2 Sports Golf 84713
+1999Q2 Sports "Indoor Sports" 24463
+1999Q2 Sports "Indoor Sports" 4850
+1999Q2 Sports "Indoor Sports" 18469
+1999Q2 Sports "Racket Sports" 9269
+1999Q2 Sports "Racket Sports" 71155
+1999Q2 Sports "Racket Sports" 36854
+1999Q2 Sports "Running - Jogging" 77019
+1999Q2 Sports "Running - Jogging" 77014
+1999Q2 Sports "Swim Sports" 60166
+1999Q2 Sports "Team Sports" 14193
+1999Q2 Sports "Team Sports" 9366
+1999Q2 Sports "Team Sports" 1385
+1999Q2 Sports "Team Sports" 48241
+1999Q2 Sports "Winter Sports" 75872
+1999Q2 Sports "Winter Sports" 55672
+1999Q3 Children "Children Sports" 8833
+1999Q3 Children "Children Sports" 2977
+1999Q3 Children "Children Sports" 16820
+1999Q3 Children "Children Sports" 13593
+1999Q3 Children "Children Sports" 12200
+1999Q3 Children "Children Sports" 40754
+1999Q3 Children "Children Sports" 3883
+1999Q3 Children "Children Sports" 496
+1999Q3 Children "Children Sports" 12317
+1999Q3 Children "Children Sports" 42517
+1999Q3 Children "Children Sports" 4860
+1999Q3 "Clothes & Shoes" Clothes 167951
+1999Q3 "Clothes & Shoes" Clothes 8952
+1999Q3 "Clothes & Shoes" Clothes 30528
+1999Q3 "Clothes & Shoes" Clothes 35957
+1999Q3 "Clothes & Shoes" Clothes 22507
+1999Q3 "Clothes & Shoes" Clothes 7595
+1999Q3 "Clothes & Shoes" Clothes 67466
+1999Q3 "Clothes & Shoes" Clothes 23741
+1999Q3 "Clothes & Shoes" Clothes 17693
+1999Q3 "Clothes & Shoes" Clothes 4190
+1999Q3 "Clothes & Shoes" Clothes 4642
+1999Q3 "Clothes & Shoes" Clothes 37914
+1999Q3 "Clothes & Shoes" Clothes 10666
+1999Q3 "Clothes & Shoes" Clothes 128263
+1999Q3 "Clothes & Shoes" Clothes 19493
+1999Q3 "Clothes & Shoes" Shoes 326052
+1999Q3 "Clothes & Shoes" Shoes 158739
+1999Q3 "Clothes & Shoes" Shoes 141540
+1999Q3 Outdoors Outdoors 86575
+1999Q3 Outdoors Outdoors 79752
+1999Q3 Outdoors Outdoors 5535
+1999Q3 Outdoors Outdoors 1698
+1999Q3 Outdoors Outdoors 170742
+1999Q3 Outdoors Outdoors 156490
+1999Q3 Outdoors Outdoors 261444
+1999Q3 Sports "Assorted Sports Articles" 230609
+1999Q3 Sports "Assorted Sports Articles" 16758
+1999Q3 Sports "Assorted Sports Articles" 22108
+1999Q3 Sports "Assorted Sports Articles" 397796
+1999Q3 Sports Golf 164126
+1999Q3 Sports Golf 88682
+1999Q3 Sports "Indoor Sports" 36026
+1999Q3 Sports "Indoor Sports" 7434
+1999Q3 Sports "Indoor Sports" 21973
+1999Q3 Sports "Racket Sports" 12616
+1999Q3 Sports "Racket Sports" 87373
+1999Q3 Sports "Racket Sports" 24178
+1999Q3 Sports "Running - Jogging" 69841
+1999Q3 Sports "Running - Jogging" 77546
+1999Q3 Sports "Swim Sports" 48689
+1999Q3 Sports "Team Sports" 9825
+1999Q3 Sports "Team Sports" 6509
+1999Q3 Sports "Team Sports" 1999
+1999Q3 Sports "Team Sports" 34462
+1999Q3 Sports "Winter Sports" 70380
+1999Q3 Sports "Winter Sports" 56310
+1999Q4 Children "Children Sports" 7457
+1999Q4 Children "Children Sports" 1113
+1999Q4 Children "Children Sports" 13973
+1999Q4 Children "Children Sports" 11967
+1999Q4 Children "Children Sports" 11210
+1999Q4 Children "Children Sports" 28336
+1999Q4 Children "Children Sports" 3121
+1999Q4 Children "Children Sports" 467
+1999Q4 Children "Children Sports" 11154
+1999Q4 Children "Children Sports" 35099
+1999Q4 Children "Children Sports" 5389
+1999Q4 "Clothes & Shoes" Clothes 140445
+1999Q4 "Clothes & Shoes" Clothes 7219
+1999Q4 "Clothes & Shoes" Clothes 61299
+1999Q4 "Clothes & Shoes" Clothes 30139
+1999Q4 "Clothes & Shoes" Clothes 20566
+1999Q4 "Clothes & Shoes" Clothes 10438
+1999Q4 "Clothes & Shoes" Clothes 59284
+1999Q4 "Clothes & Shoes" Clothes 21028
+1999Q4 "Clothes & Shoes" Clothes 15539
+1999Q4 "Clothes & Shoes" Clothes 1925
+1999Q4 "Clothes & Shoes" Clothes 3930
+1999Q4 "Clothes & Shoes" Clothes 29241
+1999Q4 "Clothes & Shoes" Clothes 4922
+1999Q4 "Clothes & Shoes" Clothes 122285
+1999Q4 "Clothes & Shoes" Clothes 14037
+1999Q4 "Clothes & Shoes" Shoes 220287
+1999Q4 "Clothes & Shoes" Shoes 106766
+1999Q4 "Clothes & Shoes" Shoes 108020
+1999Q4 Outdoors Outdoors 185557
+1999Q4 Outdoors Outdoors 77679
+1999Q4 Outdoors Outdoors 12634
+1999Q4 Outdoors Outdoors 4321
+1999Q4 Outdoors Outdoors 90356
+1999Q4 Outdoors Outdoors 89234
+1999Q4 Outdoors Outdoors 145481
+1999Q4 Sports "Assorted Sports Articles" 208643
+1999Q4 Sports "Assorted Sports Articles" 36701
+1999Q4 Sports "Assorted Sports Articles" 10885
+1999Q4 Sports "Assorted Sports Articles" 220520
+1999Q4 Sports Golf 126166
+1999Q4 Sports Golf 64638
+1999Q4 Sports "Indoor Sports" 67693
+1999Q4 Sports "Indoor Sports" 11068
+1999Q4 Sports "Indoor Sports" 40132
+1999Q4 Sports "Racket Sports" 22095
+1999Q4 Sports "Racket Sports" 87916
+1999Q4 Sports "Racket Sports" 23484
+1999Q4 Sports "Running - Jogging" 51199
+1999Q4 Sports "Running - Jogging" 51992
+1999Q4 Sports "Swim Sports" 22944
+1999Q4 Sports "Team Sports" 8915
+1999Q4 Sports "Team Sports" 5409
+1999Q4 Sports "Team Sports" 2416
+1999Q4 Sports "Team Sports" 35714
+1999Q4 Sports "Winter Sports" 196434
+1999Q4 Sports "Winter Sports" 123899
+2000Q1 Children "Children Sports" 5627
+2000Q1 Children "Children Sports" 1618
+2000Q1 Children "Children Sports" 9501
+2000Q1 Children "Children Sports" 7508
+2000Q1 Children "Children Sports" 7193
+2000Q1 Children "Children Sports" 21158
+2000Q1 Children "Children Sports" 2362
+2000Q1 Children "Children Sports" 278
+2000Q1 Children "Children Sports" 7658
+2000Q1 Children "Children Sports" 23972
+2000Q1 Children "Children Sports" 3451
+2000Q1 "Clothes & Shoes" Clothes 103567
+2000Q1 "Clothes & Shoes" Clothes 5901
+2000Q1 "Clothes & Shoes" Clothes 85894
+2000Q1 "Clothes & Shoes" Clothes 18643
+2000Q1 "Clothes & Shoes" Clothes 15236
+2000Q1 "Clothes & Shoes" Clothes 6465
+2000Q1 "Clothes & Shoes" Clothes 41966
+2000Q1 "Clothes & Shoes" Clothes 14497
+2000Q1 "Clothes & Shoes" Clothes 11403
+2000Q1 "Clothes & Shoes" Clothes 2513
+2000Q1 "Clothes & Shoes" Clothes 2876
+2000Q1 "Clothes & Shoes" Clothes 19939
+2000Q1 "Clothes & Shoes" Clothes 6253
+2000Q1 "Clothes & Shoes" Clothes 80871
+2000Q1 "Clothes & Shoes" Clothes 10923
+2000Q1 "Clothes & Shoes" Shoes 239996
+2000Q1 "Clothes & Shoes" Shoes 112862
+2000Q1 "Clothes & Shoes" Shoes 107826
+2000Q1 Outdoors Outdoors 286258
+2000Q1 Outdoors Outdoors 51118
+2000Q1 Outdoors Outdoors 7856
+2000Q1 Outdoors Outdoors 4907
+2000Q1 Outdoors Outdoors 99460
+2000Q1 Outdoors Outdoors 89304
+2000Q1 Outdoors Outdoors 158431
+2000Q1 Sports "Assorted Sports Articles" 167936
+2000Q1 Sports "Assorted Sports Articles" 27860
+2000Q1 Sports "Assorted Sports Articles" 10806
+2000Q1 Sports "Assorted Sports Articles" 227123
+2000Q1 Sports Golf 99002
+2000Q1 Sports Golf 53465
+2000Q1 Sports "Indoor Sports" 71593
+2000Q1 Sports "Indoor Sports" 9369
+2000Q1 Sports "Indoor Sports" 45710
+2000Q1 Sports "Racket Sports" 18776
+2000Q1 Sports "Racket Sports" 48585
+2000Q1 Sports "Racket Sports" 16812
+2000Q1 Sports "Running - Jogging" 55638
+2000Q1 Sports "Running - Jogging" 61148
+2000Q1 Sports "Swim Sports" 24921
+2000Q1 Sports "Team Sports" 6219
+2000Q1 Sports "Team Sports" 3822
+2000Q1 Sports "Team Sports" 2740
+2000Q1 Sports "Team Sports" 23244
+2000Q1 Sports "Winter Sports" 254706
+2000Q1 Sports "Winter Sports" 187819
+2000Q2 Children "Children Sports" 9052
+2000Q2 Children "Children Sports" 3472
+2000Q2 Children "Children Sports" 19415
+2000Q2 Children "Children Sports" 15364
+2000Q2 Children "Children Sports" 12903
+2000Q2 Children "Children Sports" 45402
+2000Q2 Children "Children Sports" 4619
+2000Q2 Children "Children Sports" 351
+2000Q2 Children "Children Sports" 14924
+2000Q2 Children "Children Sports" 45018
+2000Q2 Children "Children Sports" 5711
+2000Q2 "Clothes & Shoes" Clothes 191287
+2000Q2 "Clothes & Shoes" Clothes 12023
+2000Q2 "Clothes & Shoes" Clothes 54432
+2000Q2 "Clothes & Shoes" Clothes 40207
+2000Q2 "Clothes & Shoes" Clothes 31398
+2000Q2 "Clothes & Shoes" Clothes 15519
+2000Q2 "Clothes & Shoes" Clothes 86710
+2000Q2 "Clothes & Shoes" Clothes 27650
+2000Q2 "Clothes & Shoes" Clothes 21752
+2000Q2 "Clothes & Shoes" Clothes 4339
+2000Q2 "Clothes & Shoes" Clothes 4672
+2000Q2 "Clothes & Shoes" Clothes 36509
+2000Q2 "Clothes & Shoes" Clothes 11090
+2000Q2 "Clothes & Shoes" Clothes 164258
+2000Q2 "Clothes & Shoes" Clothes 20033
+2000Q2 "Clothes & Shoes" Shoes 378502
+2000Q2 "Clothes & Shoes" Shoes 178159
+2000Q2 "Clothes & Shoes" Shoes 173593
+2000Q2 Outdoors Outdoors 183170
+2000Q2 Outdoors Outdoors 124273
+2000Q2 Outdoors Outdoors 6607
+2000Q2 Outdoors Outdoors 2315
+2000Q2 Outdoors Outdoors 237044
+2000Q2 Outdoors Outdoors 210270
+2000Q2 Outdoors Outdoors 356591
+2000Q2 Sports "Assorted Sports Articles" 277982
+2000Q2 Sports "Assorted Sports Articles" 24188
+2000Q2 Sports "Assorted Sports Articles" 30612
+2000Q2 Sports "Assorted Sports Articles" 552970
+2000Q2 Sports Golf 221011
+2000Q2 Sports Golf 107704
+2000Q2 Sports "Indoor Sports" 29211
+2000Q2 Sports "Indoor Sports" 5241
+2000Q2 Sports "Indoor Sports" 20651
+2000Q2 Sports "Racket Sports" 13037
+2000Q2 Sports "Racket Sports" 89128
+2000Q2 Sports "Racket Sports" 42833
+2000Q2 Sports "Running - Jogging" 89904
+2000Q2 Sports "Running - Jogging" 91769
+2000Q2 Sports "Swim Sports" 70695
+2000Q2 Sports "Team Sports" 16031
+2000Q2 Sports "Team Sports" 9107
+2000Q2 Sports "Team Sports" 1795
+2000Q2 Sports "Team Sports" 64957
+2000Q2 Sports "Winter Sports" 85682
+2000Q2 Sports "Winter Sports" 66382
+2000Q3 Children "Children Sports" 10689
+2000Q3 Children "Children Sports" 3053
+2000Q3 Children "Children Sports" 21049
+2000Q3 Children "Children Sports" 16434
+2000Q3 Children "Children Sports" 15493
+2000Q3 Children "Children Sports" 45839
+2000Q3 Children "Children Sports" 4934
+2000Q3 Children "Children Sports" 519
+2000Q3 Children "Children Sports" 17238
+2000Q3 Children "Children Sports" 53352
+2000Q3 Children "Children Sports" 6694
+2000Q3 "Clothes & Shoes" Clothes 209707
+2000Q3 "Clothes & Shoes" Clothes 11289
+2000Q3 "Clothes & Shoes" Clothes 42423
+2000Q3 "Clothes & Shoes" Clothes 43013
+2000Q3 "Clothes & Shoes" Clothes 34172
+2000Q3 "Clothes & Shoes" Clothes 13419
+2000Q3 "Clothes & Shoes" Clothes 83282
+2000Q3 "Clothes & Shoes" Clothes 29772
+2000Q3 "Clothes & Shoes" Clothes 26099
+2000Q3 "Clothes & Shoes" Clothes 5348
+2000Q3 "Clothes & Shoes" Clothes 5239
+2000Q3 "Clothes & Shoes" Clothes 41974
+2000Q3 "Clothes & Shoes" Clothes 13702
+2000Q3 "Clothes & Shoes" Clothes 171995
+2000Q3 "Clothes & Shoes" Clothes 22096
+2000Q3 "Clothes & Shoes" Shoes 383969
+2000Q3 "Clothes & Shoes" Shoes 179442
+2000Q3 "Clothes & Shoes" Shoes 175171
+2000Q3 Outdoors Outdoors 114538
+2000Q3 Outdoors Outdoors 110410
+2000Q3 Outdoors Outdoors 7562
+2000Q3 Outdoors Outdoors 2478
+2000Q3 Outdoors Outdoors 221231
+2000Q3 Outdoors Outdoors 195212
+2000Q3 Outdoors Outdoors 327773
+2000Q3 Sports "Assorted Sports Articles" 305694
+2000Q3 Sports "Assorted Sports Articles" 23093
+2000Q3 Sports "Assorted Sports Articles" 23134
+2000Q3 Sports "Assorted Sports Articles" 514154
+2000Q3 Sports Golf 210724
+2000Q3 Sports Golf 110731
+2000Q3 Sports "Indoor Sports" 52509
+2000Q3 Sports "Indoor Sports" 9689
+2000Q3 Sports "Indoor Sports" 34017
+2000Q3 Sports "Racket Sports" 18751
+2000Q3 Sports "Racket Sports" 97529
+2000Q3 Sports "Racket Sports" 27191
+2000Q3 Sports "Running - Jogging" 98527
+2000Q3 Sports "Running - Jogging" 93053
+2000Q3 Sports "Swim Sports" 59923
+2000Q3 Sports "Team Sports" 13326
+2000Q3 Sports "Team Sports" 8433
+2000Q3 Sports "Team Sports" 2760
+2000Q3 Sports "Team Sports" 47291
+2000Q3 Sports "Winter Sports" 91873
+2000Q3 Sports "Winter Sports" 64740
+2000Q4 Children "Children Sports" 9631
+2000Q4 Children "Children Sports" 1583
+2000Q4 Children "Children Sports" 17039
+2000Q4 Children "Children Sports" 12715
+2000Q4 Children "Children Sports" 13504
+2000Q4 Children "Children Sports" 38362
+2000Q4 Children "Children Sports" 3921
+2000Q4 Children "Children Sports" 439
+2000Q4 Children "Children Sports" 13063
+2000Q4 Children "Children Sports" 41527
+2000Q4 Children "Children Sports" 5151
+2000Q4 "Clothes & Shoes" Clothes 177781
+2000Q4 "Clothes & Shoes" Clothes 9270
+2000Q4 "Clothes & Shoes" Clothes 75644
+2000Q4 "Clothes & Shoes" Clothes 32933
+2000Q4 "Clothes & Shoes" Clothes 29168
+2000Q4 "Clothes & Shoes" Clothes 10904
+2000Q4 "Clothes & Shoes" Clothes 77548
+2000Q4 "Clothes & Shoes" Clothes 27988
+2000Q4 "Clothes & Shoes" Clothes 18091
+2000Q4 "Clothes & Shoes" Clothes 2508
+2000Q4 "Clothes & Shoes" Clothes 5265
+2000Q4 "Clothes & Shoes" Clothes 37475
+2000Q4 "Clothes & Shoes" Clothes 6275
+2000Q4 "Clothes & Shoes" Clothes 152079
+2000Q4 "Clothes & Shoes" Clothes 17008
+2000Q4 "Clothes & Shoes" Shoes 257321
+2000Q4 "Clothes & Shoes" Shoes 118675
+2000Q4 "Clothes & Shoes" Shoes 122145
+2000Q4 Outdoors Outdoors 254761
+2000Q4 Outdoors Outdoors 92640
+2000Q4 Outdoors Outdoors 16539
+2000Q4 Outdoors Outdoors 6414
+2000Q4 Outdoors Outdoors 113955
+2000Q4 Outdoors Outdoors 112989
+2000Q4 Outdoors Outdoors 191251
+2000Q4 Sports "Assorted Sports Articles" 265022
+2000Q4 Sports "Assorted Sports Articles" 45726
+2000Q4 Sports "Assorted Sports Articles" 12224
+2000Q4 Sports "Assorted Sports Articles" 290973
+2000Q4 Sports Golf 143613
+2000Q4 Sports Golf 76022
+2000Q4 Sports "Indoor Sports" 72077
+2000Q4 Sports "Indoor Sports" 12888
+2000Q4 Sports "Indoor Sports" 51115
+2000Q4 Sports "Racket Sports" 28366
+2000Q4 Sports "Racket Sports" 111316
+2000Q4 Sports "Racket Sports" 27775
+2000Q4 Sports "Running - Jogging" 66493
+2000Q4 Sports "Running - Jogging" 69648
+2000Q4 Sports "Swim Sports" 29786
+2000Q4 Sports "Team Sports" 9636
+2000Q4 Sports "Team Sports" 7507
+2000Q4 Sports "Team Sports" 3389
+2000Q4 Sports "Team Sports" 42440
+2000Q4 Sports "Winter Sports" 200689
+2000Q4 Sports "Winter Sports" 143356
+2001Q1 Children "Children Sports" 4400
+2001Q1 Children "Children Sports" 1384
+2001Q1 Children "Children Sports" 7524
+2001Q1 Children "Children Sports" 6474
+2001Q1 Children "Children Sports" 5439
+2001Q1 Children "Children Sports" 18008
+2001Q1 Children "Children Sports" 1897
+2001Q1 Children "Children Sports" 209
+2001Q1 Children "Children Sports" 6618
+2001Q1 Children "Children Sports" 18806
+2001Q1 Children "Children Sports" 2320
+2001Q1 "Clothes & Shoes" Clothes 82145
+2001Q1 "Clothes & Shoes" Clothes 4370
+2001Q1 "Clothes & Shoes" Clothes 75969
+2001Q1 "Clothes & Shoes" Clothes 14907
+2001Q1 "Clothes & Shoes" Clothes 15862
+2001Q1 "Clothes & Shoes" Clothes 6418
+2001Q1 "Clothes & Shoes" Clothes 38263
+2001Q1 "Clothes & Shoes" Clothes 13140
+2001Q1 "Clothes & Shoes" Clothes 9126
+2001Q1 "Clothes & Shoes" Clothes 2189
+2001Q1 "Clothes & Shoes" Clothes 2479
+2001Q1 "Clothes & Shoes" Clothes 18403
+2001Q1 "Clothes & Shoes" Clothes 5588
+2001Q1 "Clothes & Shoes" Clothes 68410
+2001Q1 "Clothes & Shoes" Clothes 10627
+2001Q1 "Clothes & Shoes" Shoes 194683
+2001Q1 "Clothes & Shoes" Shoes 93756
+2001Q1 "Clothes & Shoes" Shoes 90265
+2001Q1 Outdoors Outdoors 275094
+2001Q1 Outdoors Outdoors 45798
+2001Q1 Outdoors Outdoors 8110
+2001Q1 Outdoors Outdoors 6231
+2001Q1 Outdoors Outdoors 87643
+2001Q1 Outdoors Outdoors 76454
+2001Q1 Outdoors Outdoors 130191
+2001Q1 Sports "Assorted Sports Articles" 145961
+2001Q1 Sports "Assorted Sports Articles" 23381
+2001Q1 Sports "Assorted Sports Articles" 9905
+2001Q1 Sports "Assorted Sports Articles" 189205
+2001Q1 Sports Golf 78176
+2001Q1 Sports Golf 42292
+2001Q1 Sports "Indoor Sports" 42007
+2001Q1 Sports "Indoor Sports" 7693
+2001Q1 Sports "Indoor Sports" 27318
+2001Q1 Sports "Racket Sports" 12913
+2001Q1 Sports "Racket Sports" 46883
+2001Q1 Sports "Racket Sports" 14140
+2001Q1 Sports "Running - Jogging" 51709
+2001Q1 Sports "Running - Jogging" 52945
+2001Q1 Sports "Swim Sports" 23239
+2001Q1 Sports "Team Sports" 4934
+2001Q1 Sports "Team Sports" 3137
+2001Q1 Sports "Team Sports" 2178
+2001Q1 Sports "Team Sports" 22471
+2001Q1 Sports "Winter Sports" 208741
+2001Q1 Sports "Winter Sports" 149392
+2001Q2 Children "Children Sports" 7939
+2001Q2 Children "Children Sports" 2930
+2001Q2 Children "Children Sports" 17082
+2001Q2 Children "Children Sports" 13569
+2001Q2 Children "Children Sports" 12789
+2001Q2 Children "Children Sports" 39146
+2001Q2 Children "Children Sports" 4804
+2001Q2 Children "Children Sports" 464
+2001Q2 Children "Children Sports" 12854
+2001Q2 Children "Children Sports" 43081
+2001Q2 Children "Children Sports" 5643
+2001Q2 "Clothes & Shoes" Clothes 159617
+2001Q2 "Clothes & Shoes" Clothes 9755
+2001Q2 "Clothes & Shoes" Clothes 47087
+2001Q2 "Clothes & Shoes" Clothes 33198
+2001Q2 "Clothes & Shoes" Clothes 31427
+2001Q2 "Clothes & Shoes" Clothes 9652
+2001Q2 "Clothes & Shoes" Clothes 70666
+2001Q2 "Clothes & Shoes" Clothes 25353
+2001Q2 "Clothes & Shoes" Clothes 18267
+2001Q2 "Clothes & Shoes" Clothes 3774
+2001Q2 "Clothes & Shoes" Clothes 3857
+2001Q2 "Clothes & Shoes" Clothes 40528
+2001Q2 "Clothes & Shoes" Clothes 9782
+2001Q2 "Clothes & Shoes" Clothes 137756
+2001Q2 "Clothes & Shoes" Clothes 20921
+2001Q2 "Clothes & Shoes" Shoes 298666
+2001Q2 "Clothes & Shoes" Shoes 147483
+2001Q2 "Clothes & Shoes" Shoes 135879
+2001Q2 Outdoors Outdoors 182233
+2001Q2 Outdoors Outdoors 115082
+2001Q2 Outdoors Outdoors 6956
+2001Q2 Outdoors Outdoors 2184
+2001Q2 Outdoors Outdoors 218366
+2001Q2 Outdoors Outdoors 189792
+2001Q2 Outdoors Outdoors 329385
+2001Q2 Sports "Assorted Sports Articles" 245135
+2001Q2 Sports "Assorted Sports Articles" 21818
+2001Q2 Sports "Assorted Sports Articles" 27900
+2001Q2 Sports "Assorted Sports Articles" 451698
+2001Q2 Sports Golf 177456
+2001Q2 Sports Golf 95503
+2001Q2 Sports "Indoor Sports" 20532
+2001Q2 Sports "Indoor Sports" 4567
+2001Q2 Sports "Indoor Sports" 17004
+2001Q2 Sports "Racket Sports" 11589
+2001Q2 Sports "Racket Sports" 83978
+2001Q2 Sports "Racket Sports" 38117
+2001Q2 Sports "Running - Jogging" 82542
+2001Q2 Sports "Running - Jogging" 80306
+2001Q2 Sports "Swim Sports" 65354
+2001Q2 Sports "Team Sports" 12336
+2001Q2 Sports "Team Sports" 8145
+2001Q2 Sports "Team Sports" 1349
+2001Q2 Sports "Team Sports" 64959
+2001Q2 Sports "Winter Sports" 72229
+2001Q2 Sports "Winter Sports" 54820
+2001Q3 Children "Children Sports" 8819
+2001Q3 Children "Children Sports" 3588
+2001Q3 Children "Children Sports" 19504
+2001Q3 Children "Children Sports" 15608
+2001Q3 Children "Children Sports" 12749
+2001Q3 Children "Children Sports" 39982
+2001Q3 Children "Children Sports" 4403
+2001Q3 Children "Children Sports" 281
+2001Q3 Children "Children Sports" 14212
+2001Q3 Children "Children Sports" 41366
+2001Q3 Children "Children Sports" 5321
+2001Q3 "Clothes & Shoes" Clothes 170386
+2001Q3 "Clothes & Shoes" Clothes 10026
+2001Q3 "Clothes & Shoes" Clothes 31543
+2001Q3 "Clothes & Shoes" Clothes 36469
+2001Q3 "Clothes & Shoes" Clothes 30308
+2001Q3 "Clothes & Shoes" Clothes 9938
+2001Q3 "Clothes & Shoes" Clothes 79430
+2001Q3 "Clothes & Shoes" Clothes 25416
+2001Q3 "Clothes & Shoes" Clothes 19266
+2001Q3 "Clothes & Shoes" Clothes 3663
+2001Q3 "Clothes & Shoes" Clothes 4404
+2001Q3 "Clothes & Shoes" Clothes 34577
+2001Q3 "Clothes & Shoes" Clothes 12605
+2001Q3 "Clothes & Shoes" Clothes 141060
+2001Q3 "Clothes & Shoes" Clothes 19323
+2001Q3 "Clothes & Shoes" Shoes 317581
+2001Q3 "Clothes & Shoes" Shoes 148702
+2001Q3 "Clothes & Shoes" Shoes 136565
+2001Q3 Outdoors Outdoors 103087
+2001Q3 Outdoors Outdoors 100603
+2001Q3 Outdoors Outdoors 6981
+2001Q3 Outdoors Outdoors 2263
+2001Q3 Outdoors Outdoors 190108
+2001Q3 Outdoors Outdoors 168217
+2001Q3 Outdoors Outdoors 302428
+2001Q3 Sports "Assorted Sports Articles" 251979
+2001Q3 Sports "Assorted Sports Articles" 18822
+2001Q3 Sports "Assorted Sports Articles" 21219
+2001Q3 Sports "Assorted Sports Articles" 417161
+2001Q3 Sports Golf 162799
+2001Q3 Sports Golf 83380
+2001Q3 Sports "Indoor Sports" 32046
+2001Q3 Sports "Indoor Sports" 7050
+2001Q3 Sports "Indoor Sports" 29156
+2001Q3 Sports "Racket Sports" 11725
+2001Q3 Sports "Racket Sports" 91649
+2001Q3 Sports "Racket Sports" 23983
+2001Q3 Sports "Running - Jogging" 79491
+2001Q3 Sports "Running - Jogging" 86106
+2001Q3 Sports "Swim Sports" 54835
+2001Q3 Sports "Team Sports" 10287
+2001Q3 Sports "Team Sports" 6963
+2001Q3 Sports "Team Sports" 2377
+2001Q3 Sports "Team Sports" 41941
+2001Q3 Sports "Winter Sports" 74678
+2001Q3 Sports "Winter Sports" 53210
+2001Q4 Children "Children Sports" 7524
+2001Q4 Children "Children Sports" 1629
+2001Q4 Children "Children Sports" 13837
+2001Q4 Children "Children Sports" 12189
+2001Q4 Children "Children Sports" 11769
+2001Q4 Children "Children Sports" 35398
+2001Q4 Children "Children Sports" 3393
+2001Q4 Children "Children Sports" 859
+2001Q4 Children "Children Sports" 11734
+2001Q4 Children "Children Sports" 35462
+2001Q4 Children "Children Sports" 5435
+2001Q4 "Clothes & Shoes" Clothes 143526
+2001Q4 "Clothes & Shoes" Clothes 8387
+2001Q4 "Clothes & Shoes" Clothes 57290
+2001Q4 "Clothes & Shoes" Clothes 29511
+2001Q4 "Clothes & Shoes" Clothes 25857
+2001Q4 "Clothes & Shoes" Clothes 10407
+2001Q4 "Clothes & Shoes" Clothes 61809
+2001Q4 "Clothes & Shoes" Clothes 20855
+2001Q4 "Clothes & Shoes" Clothes 16170
+2001Q4 "Clothes & Shoes" Clothes 2120
+2001Q4 "Clothes & Shoes" Clothes 4849
+2001Q4 "Clothes & Shoes" Clothes 27466
+2001Q4 "Clothes & Shoes" Clothes 5294
+2001Q4 "Clothes & Shoes" Clothes 118537
+2001Q4 "Clothes & Shoes" Clothes 14314
+2001Q4 "Clothes & Shoes" Shoes 213616
+2001Q4 "Clothes & Shoes" Shoes 109573
+2001Q4 "Clothes & Shoes" Shoes 107357
+2001Q4 Outdoors Outdoors 213020
+2001Q4 Outdoors Outdoors 83514
+2001Q4 Outdoors Outdoors 15519
+2001Q4 Outdoors Outdoors 5154
+2001Q4 Outdoors Outdoors 96273
+2001Q4 Outdoors Outdoors 97837
+2001Q4 Outdoors Outdoors 164364
+2001Q4 Sports "Assorted Sports Articles" 223198
+2001Q4 Sports "Assorted Sports Articles" 43525
+2001Q4 Sports "Assorted Sports Articles" 11585
+2001Q4 Sports "Assorted Sports Articles" 216547
+2001Q4 Sports Golf 131487
+2001Q4 Sports Golf 64740
+2001Q4 Sports "Indoor Sports" 59906
+2001Q4 Sports "Indoor Sports" 9343
+2001Q4 Sports "Indoor Sports" 30573
+2001Q4 Sports "Racket Sports" 27969
+2001Q4 Sports "Racket Sports" 103294
+2001Q4 Sports "Racket Sports" 24122
+2001Q4 Sports "Running - Jogging" 54408
+2001Q4 Sports "Running - Jogging" 57557
+2001Q4 Sports "Swim Sports" 28450
+2001Q4 Sports "Team Sports" 9141
+2001Q4 Sports "Team Sports" 6059
+2001Q4 Sports "Team Sports" 2863
+2001Q4 Sports "Team Sports" 40565
+2001Q4 Sports "Winter Sports" 187396
+2001Q4 Sports "Winter Sports" 144591
+2002Q1 Children "Children Sports" 3799
+2002Q1 Children "Children Sports" 1617
+2002Q1 Children "Children Sports" 9039
+2002Q1 Children "Children Sports" 7298
+2002Q1 Children "Children Sports" 6247
+2002Q1 Children "Children Sports" 19528
+2002Q1 Children "Children Sports" 1952
+2002Q1 Children "Children Sports" 256
+2002Q1 Children "Children Sports" 7370
+2002Q1 Children "Children Sports" 21553
+2002Q1 Children "Children Sports" 2475
+2002Q1 "Clothes & Shoes" Clothes 77701
+2002Q1 "Clothes & Shoes" Clothes 4826
+2002Q1 "Clothes & Shoes" Clothes 74232
+2002Q1 "Clothes & Shoes" Clothes 17010
+2002Q1 "Clothes & Shoes" Clothes 14147
+2002Q1 "Clothes & Shoes" Clothes 5100
+2002Q1 "Clothes & Shoes" Clothes 33389
+2002Q1 "Clothes & Shoes" Clothes 13076
+2002Q1 "Clothes & Shoes" Clothes 7794
+2002Q1 "Clothes & Shoes" Clothes 1665
+2002Q1 "Clothes & Shoes" Clothes 2174
+2002Q1 "Clothes & Shoes" Clothes 17592
+2002Q1 "Clothes & Shoes" Clothes 6514
+2002Q1 "Clothes & Shoes" Clothes 68550
+2002Q1 "Clothes & Shoes" Clothes 9320
+2002Q1 "Clothes & Shoes" Shoes 206316
+2002Q1 "Clothes & Shoes" Shoes 106128
+2002Q1 "Clothes & Shoes" Shoes 99121
+2002Q1 Outdoors Outdoors 281997
+2002Q1 Outdoors Outdoors 43665
+2002Q1 Outdoors Outdoors 7515
+2002Q1 Outdoors Outdoors 5040
+2002Q1 Outdoors Outdoors 92439
+2002Q1 Outdoors Outdoors 81254
+2002Q1 Outdoors Outdoors 151894
+2002Q1 Sports "Assorted Sports Articles" 138444
+2002Q1 Sports "Assorted Sports Articles" 23131
+2002Q1 Sports "Assorted Sports Articles" 10018
+2002Q1 Sports "Assorted Sports Articles" 185717
+2002Q1 Sports Golf 91135
+2002Q1 Sports Golf 41645
+2002Q1 Sports "Indoor Sports" 51669
+2002Q1 Sports "Indoor Sports" 9255
+2002Q1 Sports "Indoor Sports" 36919
+2002Q1 Sports "Racket Sports" 13589
+2002Q1 Sports "Racket Sports" 42952
+2002Q1 Sports "Racket Sports" 13208
+2002Q1 Sports "Running - Jogging" 54407
+2002Q1 Sports "Running - Jogging" 60493
+2002Q1 Sports "Swim Sports" 25312
+2002Q1 Sports "Team Sports" 5049
+2002Q1 Sports "Team Sports" 3053
+2002Q1 Sports "Team Sports" 2094
+2002Q1 Sports "Team Sports" 24050
+2002Q1 Sports "Winter Sports" 209548
+2002Q1 Sports "Winter Sports" 149387
+2002Q2 Children "Children Sports" 10525
+2002Q2 Children "Children Sports" 4590
+2002Q2 Children "Children Sports" 20736
+2002Q2 Children "Children Sports" 16897
+2002Q2 Children "Children Sports" 14919
+2002Q2 Children "Children Sports" 47881
+2002Q2 Children "Children Sports" 4854
+2002Q2 Children "Children Sports" 774
+2002Q2 Children "Children Sports" 16364
+2002Q2 Children "Children Sports" 52430
+2002Q2 Children "Children Sports" 6469
+2002Q2 "Clothes & Shoes" Clothes 168167
+2002Q2 "Clothes & Shoes" Clothes 10033
+2002Q2 "Clothes & Shoes" Clothes 48550
+2002Q2 "Clothes & Shoes" Clothes 32034
+2002Q2 "Clothes & Shoes" Clothes 24609
+2002Q2 "Clothes & Shoes" Clothes 12797
+2002Q2 "Clothes & Shoes" Clothes 75422
+2002Q2 "Clothes & Shoes" Clothes 25612
+2002Q2 "Clothes & Shoes" Clothes 17857
+2002Q2 "Clothes & Shoes" Clothes 3424
+2002Q2 "Clothes & Shoes" Clothes 4237
+2002Q2 "Clothes & Shoes" Clothes 33827
+2002Q2 "Clothes & Shoes" Clothes 9840
+2002Q2 "Clothes & Shoes" Clothes 141852
+2002Q2 "Clothes & Shoes" Clothes 16144
+2002Q2 "Clothes & Shoes" Shoes 347787
+2002Q2 "Clothes & Shoes" Shoes 172755
+2002Q2 "Clothes & Shoes" Shoes 162324
+2002Q2 Outdoors Outdoors 198058
+2002Q2 Outdoors Outdoors 118116
+2002Q2 Outdoors Outdoors 7601
+2002Q2 Outdoors Outdoors 2458
+2002Q2 Outdoors Outdoors 228632
+2002Q2 Outdoors Outdoors 207331
+2002Q2 Outdoors Outdoors 367242
+2002Q2 Sports "Assorted Sports Articles" 275401
+2002Q2 Sports "Assorted Sports Articles" 21719
+2002Q2 Sports "Assorted Sports Articles" 31578
+2002Q2 Sports "Assorted Sports Articles" 472707
+2002Q2 Sports Golf 206982
+2002Q2 Sports Golf 102988
+2002Q2 Sports "Indoor Sports" 33548
+2002Q2 Sports "Indoor Sports" 5821
+2002Q2 Sports "Indoor Sports" 20542
+2002Q2 Sports "Racket Sports" 13079
+2002Q2 Sports "Racket Sports" 78666
+2002Q2 Sports "Racket Sports" 41115
+2002Q2 Sports "Running - Jogging" 87511
+2002Q2 Sports "Running - Jogging" 92467
+2002Q2 Sports "Swim Sports" 74303
+2002Q2 Sports "Team Sports" 15111
+2002Q2 Sports "Team Sports" 10035
+2002Q2 Sports "Team Sports" 1683
+2002Q2 Sports "Team Sports" 57621
+2002Q2 Sports "Winter Sports" 74294
+2002Q2 Sports "Winter Sports" 57669
+2002Q3 Children "Children Sports" 10379
+2002Q3 Children "Children Sports" 4179
+2002Q3 Children "Children Sports" 23070
+2002Q3 Children "Children Sports" 19333
+2002Q3 Children "Children Sports" 17706
+2002Q3 Children "Children Sports" 58258
+2002Q3 Children "Children Sports" 5173
+2002Q3 Children "Children Sports" 714
+2002Q3 Children "Children Sports" 19038
+2002Q3 Children "Children Sports" 56038
+2002Q3 Children "Children Sports" 7665
+2002Q3 "Clothes & Shoes" Clothes 196834
+2002Q3 "Clothes & Shoes" Clothes 12981
+2002Q3 "Clothes & Shoes" Clothes 38124
+2002Q3 "Clothes & Shoes" Clothes 40188
+2002Q3 "Clothes & Shoes" Clothes 34720
+2002Q3 "Clothes & Shoes" Clothes 9217
+2002Q3 "Clothes & Shoes" Clothes 83634
+2002Q3 "Clothes & Shoes" Clothes 30805
+2002Q3 "Clothes & Shoes" Clothes 19935
+2002Q3 "Clothes & Shoes" Clothes 4347
+2002Q3 "Clothes & Shoes" Clothes 5789
+2002Q3 "Clothes & Shoes" Clothes 42694
+2002Q3 "Clothes & Shoes" Clothes 14872
+2002Q3 "Clothes & Shoes" Clothes 164058
+2002Q3 "Clothes & Shoes" Clothes 20598
+2002Q3 "Clothes & Shoes" Shoes 361886
+2002Q3 "Clothes & Shoes" Shoes 183383
+2002Q3 "Clothes & Shoes" Shoes 166378
+2002Q3 Outdoors Outdoors 118857
+2002Q3 Outdoors Outdoors 106178
+2002Q3 Outdoors Outdoors 8620
+2002Q3 Outdoors Outdoors 2452
+2002Q3 Outdoors Outdoors 219437
+2002Q3 Outdoors Outdoors 194732
+2002Q3 Outdoors Outdoors 329081
+2002Q3 Sports "Assorted Sports Articles" 308778
+2002Q3 Sports "Assorted Sports Articles" 23029
+2002Q3 Sports "Assorted Sports Articles" 28291
+2002Q3 Sports "Assorted Sports Articles" 474326
+2002Q3 Sports Golf 206493
+2002Q3 Sports Golf 102041
+2002Q3 Sports "Indoor Sports" 57933
+2002Q3 Sports "Indoor Sports" 10548
+2002Q3 Sports "Indoor Sports" 41909
+2002Q3 Sports "Racket Sports" 17031
+2002Q3 Sports "Racket Sports" 102938
+2002Q3 Sports "Racket Sports" 29572
+2002Q3 Sports "Running - Jogging" 87310
+2002Q3 Sports "Running - Jogging" 95463
+2002Q3 Sports "Swim Sports" 73296
+2002Q3 Sports "Team Sports" 17552
+2002Q3 Sports "Team Sports" 11490
+2002Q3 Sports "Team Sports" 4347
+2002Q3 Sports "Team Sports" 48748
+2002Q3 Sports "Winter Sports" 75256
+2002Q3 Sports "Winter Sports" 52940
+2002Q4 Children "Children Sports" 13296
+2002Q4 Children "Children Sports" 2234
+2002Q4 Children "Children Sports" 22391
+2002Q4 Children "Children Sports" 17454
+2002Q4 Children "Children Sports" 17826
+2002Q4 Children "Children Sports" 56768
+2002Q4 Children "Children Sports" 5596
+2002Q4 Children "Children Sports" 647
+2002Q4 Children "Children Sports" 18501
+2002Q4 Children "Children Sports" 56292
+2002Q4 Children "Children Sports" 8154
+2002Q4 "Clothes & Shoes" Clothes 180623
+2002Q4 "Clothes & Shoes" Clothes 11160
+2002Q4 "Clothes & Shoes" Clothes 75036
+2002Q4 "Clothes & Shoes" Clothes 33389
+2002Q4 "Clothes & Shoes" Clothes 32320
+2002Q4 "Clothes & Shoes" Clothes 16776
+2002Q4 "Clothes & Shoes" Clothes 78021
+2002Q4 "Clothes & Shoes" Clothes 26404
+2002Q4 "Clothes & Shoes" Clothes 19697
+2002Q4 "Clothes & Shoes" Clothes 2604
+2002Q4 "Clothes & Shoes" Clothes 5739
+2002Q4 "Clothes & Shoes" Clothes 40856
+2002Q4 "Clothes & Shoes" Clothes 6491
+2002Q4 "Clothes & Shoes" Clothes 144665
+2002Q4 "Clothes & Shoes" Clothes 20182
+2002Q4 "Clothes & Shoes" Shoes 271347
+2002Q4 "Clothes & Shoes" Shoes 145236
+2002Q4 "Clothes & Shoes" Shoes 126857
+2002Q4 Outdoors Outdoors 290743
+2002Q4 Outdoors Outdoors 121630
+2002Q4 Outdoors Outdoors 20166
+2002Q4 Outdoors Outdoors 6157
+2002Q4 Outdoors Outdoors 136348
+2002Q4 Outdoors Outdoors 131291
+2002Q4 Outdoors Outdoors 225865
+2002Q4 Sports "Assorted Sports Articles" 295161
+2002Q4 Sports "Assorted Sports Articles" 53117
+2002Q4 Sports "Assorted Sports Articles" 17859
+2002Q4 Sports "Assorted Sports Articles" 282413
+2002Q4 Sports Golf 188268
+2002Q4 Sports Golf 87281
+2002Q4 Sports "Indoor Sports" 91794
+2002Q4 Sports "Indoor Sports" 17303
+2002Q4 Sports "Indoor Sports" 60631
+2002Q4 Sports "Racket Sports" 29049
+2002Q4 Sports "Racket Sports" 127070
+2002Q4 Sports "Racket Sports" 30879
+2002Q4 Sports "Running - Jogging" 70838
+2002Q4 Sports "Running - Jogging" 76700
+2002Q4 Sports "Swim Sports" 40086
+2002Q4 Sports "Team Sports" 19107
+2002Q4 Sports "Team Sports" 14803
+2002Q4 Sports "Team Sports" 5981
+2002Q4 Sports "Team Sports" 53881
+2002Q4 Sports "Winter Sports" 199924
+2002Q4 Sports "Winter Sports" 138617
